@@ -52,6 +52,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   description = "Welcome to ZhiL Security"
   images = ["/logo.png"]
 
+  [params.author]
+    name = "Ephraim Joseph Dizon"
+    email = "dizonephraimjoseph@gmail.com"
+    link = "https://xzhilx.github.io"
+
   [params.header]
     desktopMode = "fixed"
     mobileMode = "auto"
