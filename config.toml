@@ -111,7 +111,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       gravatarEmail = ""
      #avatarURL = "/images/9c00b60f26c99acad7327a3e25ac52b2d1dbc917be19747f74e1da68dff30922.png"
       title = "ZhiL Security"
-      subtitle = "Hey everyone! I’m ZhiL. I’m a malware analyst and security analyst who has been in the cybersecurity industry for more than 3 years. I’ve worked on everything that revolves to DFIR."
+      subtitle = "Hey everyone! I’m EJ. I’m experienced Malware Analyst and Security Analyst with a solid background in the cybersecurity industry. I specialize in malware analysis, reverse engineering, digital forensics and incident response (DFIR), and log analysis. My work revolves around dissecting and responding to cyber threats. A lifelong learner and a curiosity-driven person."
       typeit = false
       social = true
       disclaimer = ""
@@ -149,7 +149,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       copyTex = true
       mhchem = true
     [params.page.mapbox]
-      accessToken = "pk.eyJ1IjoiZGlsbG9uenEiLCJhIjoiY2s2czd2M2x3MDA0NjNmcGxmcjVrZmc2cyJ9.aSjv2BNuZUfARvxRYjSVZQ"
+      accessToken = ""
       lightStyle = "mapbox://styles/mapbox/light-v10?optimize=true"
       darkStyle = "mapbox://styles/mapbox/dark-v10?optimize=true"
       navigation = true
