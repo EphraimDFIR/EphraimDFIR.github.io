@@ -219,7 +219,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   priority = 0.5
 
 [Permalinks]
-  posts = ":year/:month/:filename"
+  posts = ":year/:month/:contentbasename"
 
 [privacy]
   [privacy.x]
