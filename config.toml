@@ -1,6 +1,6 @@
 baseURL = "https://ephraimdfir.github.io"
 theme = "LoveIt"
-title = "ZhiL SecOps"
+title = "EphraimDFIR SecOps"
 defaultContentLanguage = "en"
 languageCode = "en"
 languageName = "English"
@@ -44,8 +44,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   gitRepo = "https://github.com/dillonzq/LoveIt"
   fingerprint = ""
   dateFormat = "2006-01-02"
-  title = "ZhiL SecOps"
-  description = "Welcome to ZhiL SecOps"
+  title = "EphraimDFIR SecOps"
+  description = "Welcome to EphraimDFIR SecOps"
   images = ["/logo.png"]
 
   [params.author]
@@ -58,7 +58,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     mobileMode = "auto"
     [params.header.title]
       logo = ""
-      name = "ZhiL SecOps"
+      name = "EphraimDFIR SecOps"
       pre = "<i class='fa-solid fa-terminal' aria-hidden='true'></i>"
       post = ""
       typeit = true
@@ -111,7 +111,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       enable = true
       gravatarEmail = ""
      #avatarURL = "/images/9c00b60f26c99acad7327a3e25ac52b2d1dbc917be19747f74e1da68dff30922.png"
-      title = "ZhiL SecOps"
+      title = "EphraimDFIR SecOps"
       subtitle = "Hey everyone! I’m EJ. I’m experienced Malware Analyst and Security Analyst with a solid background in the cybersecurity industry. I specialize in malware analysis, reverse engineering, digital forensics and incident response (DFIR), and log analysis. My work revolves around dissecting and responding to cyber threats. A lifelong learner and a curiosity-driven person."
       typeit = false
       social = true
