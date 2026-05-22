@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/home/runner/work/xzhilx.github.io/xzhilx.github.io",
+	"sourceRoot": "/home/runner/work/EphraimDFIR.github.io/EphraimDFIR.github.io",
 	"sources": [
 		"themes/LoveIt/assets/css/style.scss",
 		"themes/LoveIt/assets/lib/modern-normalize/modern-normalize.css",
